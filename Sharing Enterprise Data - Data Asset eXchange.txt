@@ -1,0 +1,29 @@
+Despite the growth of open data sets that
+are available to the public, it can still be difficult to discover data sets that are
+both high quality and have clearly defined license and usage terms. To help solve this challenge, IBM created
+the Data Asset eXchange, or "DAX,”, which we’ll introduce in this video. DAX provides a trusted source for finding
+open data sets that are ready for to use in enterprise applications. These data sets and which cover a wide variety
+of domains, including images, video, text, and audio. Because DAX provides a high level of curation
+for data set quality, as well as licensing and usage terms, DAX data sets are typically
+easier to adopt, whether in research or commercial projects. Wherever possible, DAX aims to make data sets
+available under one of the variants of the CDLACommunity Data License Agreement, in order
+to foster data sharing and collaboration. DAX also provides a single place to access
+unique data sets, in particular from IBM Research projects. To make it easier for developers to get started
+with using the data sets, DAX also provides tutorials in the form of notebooks that walk
+through the basics of data cleaning, pre-processing, and exploratory analysis. For some data sets, there are also notebooks
+illustrating how to perform more complex analysis, such as creating charts, statistical analysis,
+time-series analysis, training machine learning models, and integrating deep learning via
+using the Model Asset eXchange, (a project closely related to DAX and also available
+on the IBM Developer website). In this way, DAX helps developers to create
+end-to-end analytic and machine learning workflows and to consume open data and models with confidence
+under clearly defined license terms. Let’s say you’ve found a data set that
+might be of interest to you. On the data set page you can download the
+compressed data set archive from cloud storage, explore the data set using Jupyter Notebooks,
+review the data set metadata, such as format, licensing terms and size, and preview some
+parts of the data set. Most data sets on DAX are complemented by
+one or more Jupyter Notebooks that you can use to perform data cleaning, pre-processing,
+and exploratory analysis. These notebooks run "as is"as is in Watson
+Studio, IBM’s Data Sciencedata science platform. Jupyter Notebooks and Watson Studio are covered
+later during in this course. In this video, you’ve learned about IBM’s
+open data repository, the Data Asset eXchange. In the hands-on lab you’ll have a chance
+to explore the repository.
